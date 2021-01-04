@@ -1,0 +1,5 @@
+const {} = require("./input.js")
+const solution = require("./solution.js")
+const answer = require("./answer.js")
+console.log("JS: ", solution(), " - (solution)")
+console.log("JS: ", answer(), " - (answer)")
